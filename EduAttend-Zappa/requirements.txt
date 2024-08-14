@@ -1,0 +1,7 @@
+werkzeug
+flask
+boto3
+requests
+Pillow
+Flask-MySQLdb
+gunicorn
